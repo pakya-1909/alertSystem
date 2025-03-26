@@ -155,3 +155,4 @@ public class Main {
         alertSystem.addLog(new Log(3, LogType.FATAL));
     }
 }
+
